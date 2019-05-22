@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/close.png</file>
+        <file>icon/close1.png</file>
+        <file>icon/close2.png</file>
+        <file>icon/down.png</file>
+        <file>icon/down1.png</file>
+        <file>icon/down2.png</file>
+        <file>icon/go.png</file>
+        <file>icon/go1.png</file>
+        <file>icon/go2.png</file>
+        <file>icon/min.png</file>
+        <file>icon/min1.png</file>
+        <file>icon/min2.png</file>
+        <file>icon/pau.png</file>
+        <file>icon/pau1.png</file>
+        <file>icon/pau2.png</file>
+        <file>icon/up.png</file>
+        <file>icon/up1.png</file>
+        <file>icon/up2.png</file>
+        <file>icon/background.jpg</file>
+        <file>icon/background.png</file>
+        <file>icon/voice.png</file>
+        <file>icon/yinfu.png</file>
+        <file>icon/aimm.png</file>
+    </qresource>
+</RCC>
